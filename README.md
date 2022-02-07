@@ -14,9 +14,11 @@ Start the application:
 ```
 ### Introduction
 This is a visualization tool for pathfinding algorithms. 
-Currently there are 2 algorithms implemented for visualization:
+
+Currently there are 2 algorithms implemented for visualization (more will be added in the future):
 - Breadth-first search
 - Depth-first search
+
 The visualization consists of nodes and connections between them (paths). Each node and each connection can be manually added or removed. To get startet you can follow the short tutorial below:
 1. Create nodes on the canvas (**by clicking left mouse button**) --> each node created is provided with a unique label (single character)
 2. Select your created nodes (**by clicking on existing node**) and connect (**key 'c'**) them --> be aware, that all selected nodes are connected with each other!
