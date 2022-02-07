@@ -13,7 +13,11 @@ Start the application:
  python PathfindingVisualizer.py
 ```
 ### Introduction
-This is a visualization tool for pathfinding algorithms. The visualization consists of nodes and connections between them (paths). Each node and each connection can be manually added or removed. To get startet you can follow the short tutorial below:
+This is a visualization tool for pathfinding algorithms. 
+Currently there are 2 algorithms implemented for visualization:
+- Breadth-first search
+- Depth-first search
+The visualization consists of nodes and connections between them (paths). Each node and each connection can be manually added or removed. To get startet you can follow the short tutorial below:
 1. Create nodes on the canvas (**by clicking left mouse button**) --> each node created is provided with a unique label (single character)
 2. Select your created nodes (**by clicking on existing node**) and connect (**key 'c'**) them --> be aware, that all selected nodes are connected with each other!
 3. If needed, remove nodes (**by placing mouse cursor on node and pressing key 'r'**) or disconnect them (**by selecting nodes and pressing key 'd'**)
