@@ -33,3 +33,7 @@ Start breadth-first visualization | key **'1'** |
 Start depth-first visualization | key **'2'** |
 Stop/Reset algorithm progress | key **'SPACE'** |
 ### Legend
+Symbol/ Color | Meaning |
+--- | --- |
+![Default node](img/default_node.PNG?raw=true "Default node") | Default node |
+![Selected node](img/selected_node.PNG?raw=true "Selected node") | Selected node |
