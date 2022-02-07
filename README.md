@@ -1,6 +1,6 @@
 # Python Pathfinding Visualizer
 <p align="center">
-  <img src="img/bfs.gif" />
+  <img src="img/dfs.gif" />
 </p>
 
 ## Required Installations
