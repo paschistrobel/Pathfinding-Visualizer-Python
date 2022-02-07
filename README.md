@@ -33,7 +33,7 @@ Start breadth-first visualization | key **'1'** |
 Start depth-first visualization | key **'2'** |
 Stop/Reset algorithm progress | key **'SPACE'** |
 ### Legend
-Symbol/ Color | Status |
+Symbol/ Color | State |
 --- | --- |
 ![Default node](img/default_node.PNG?raw=true "Default node") | Default node |
 ![Selected node](img/selected_node.PNG?raw=true "Selected node") | Selected node |
@@ -43,4 +43,4 @@ Symbol/ Color | Status |
 ![Inspected node](img/inspected_node.PNG?raw=true "Inspected node") | Focused (Node is currently focused by the algorithm) |
 ![Visited node](img/visited_node.PNG?raw=true "Visited node") | Already visited (Node was already visited by the algorithm) |
 ![Final node](img/part_of_final_path_node.PNG?raw=true "Final node") | Final node (Node is part of the final path proposed by the algorithm) |
-Note: same colors also apply to the connections |
+Note: same colors also apply to the connections
