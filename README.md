@@ -21,16 +21,15 @@ A summary of the possible actions, as well as a legend for the meaning of colors
 ### Controls
 Action | Controls |
 --- | --- |
-Create Node | 301 |
-```
-'mouse_left_click'               --> create/select node
-'mouse_cursor_on_node'  +  's'   --> mark node as start node --> start node has one ring around it
-'mouse_cursor_on_node'  +  'e'   --> mark node as end node --> end node has two rings around it
-'mouse_cursor_on_node'  +  'r'   --> remove node
-'c'                              --> connect all selected nodes (to select a node, click on it)
-'d'                              --> disconnect all selected nodes (to select a node, click on it)
-'1'                              --> start bread-first algorithm
-'2'                              --> start depth-first algorithm
-'SPACE'                          --> reset the pathfinding algorithm progress
-```
+Create node | **Mouse_left_click** on free space |
+Remove node | Position mouse cursor on existing node + key **'r'** |
+Select node | **Mouse_left_click** on existing (unselected) node |
+Unselect node | **Mouse_left_click** on existing (selected) node |
+Mark start node | Position mouse cursor on existing node + key **'s'** |
+Mark end node | Position mouse cursor on existing node + key **'e'** |
+Connect nodes | key **'c'** (connects all selected nodes) |
+Disconnect nodes | key **'d'** (disconnects all unselected nodes) |
+Start breadth-first visualization | key **'1'** |
+Start depth-first visualization | key **'2'** |
+Stop/Reset algorithm progress | key **'SPACE'** |
 ### Legend
