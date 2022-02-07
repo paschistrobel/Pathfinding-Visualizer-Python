@@ -2,6 +2,7 @@
 <p align="center">
   <img src="img/bfs.gif" />
 </p>
+
 ## Required Installations
 ```
  python3 -m pip install pygame==2.1.2
