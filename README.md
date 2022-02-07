@@ -1,5 +1,5 @@
 # Python Pathfinding Visualizer
-![breadth first search](img/bfs.gif)
+![breadth first search](img/bfs.gif)![breadth first search](img/dfs.gif)
 ## Required Installations
 ```
  python3 -m pip install pygame==2.1.2
